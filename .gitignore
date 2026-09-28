@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compilação
+out/
+bin/
+*.class
+
+# Arquivos gerados pela aplicação
+registros/
